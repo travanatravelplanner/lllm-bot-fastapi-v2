@@ -1,0 +1,17 @@
+[server]
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = false
+[browser]
+gatherUsageStats = false
+[theme]
+[theme]
+base="light"
+font="serif"
+primaryColor="#FAFAFA"
+[deprecation]
+showfileUploaderEncoding = false
+[logger]
+level = "error"
+
